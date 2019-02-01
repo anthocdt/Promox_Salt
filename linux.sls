@@ -1,3 +1,5 @@
+#Bonjour Gregory !!
+
 adminitescia:
    user.present:
       - home: /home/adminitescia
